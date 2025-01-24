@@ -1,0 +1,416 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main.py",
+			"settings":
+			{
+				"buffer_size": 1502,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAABHBgAAIyBJbiBzcmMvbWFpbi5weQppbXBvcnQgc3lzCmltcG9ydCBvcwoKIyBBZGQgdGhlIHByb2plY3Qgcm9vdCBkaXJlY3RvcnkgdG8gUHl0aG9uIHBhdGgKc3lzLnBhdGguYXBwZW5kKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkpKQoKZnJvbSBjb25maWcuY29uZmlnIGltcG9ydCBDb25maWcKaW1wb3J0IG9wZW5haQoKY2xhc3MgUGVyc29uYWxBSUFzc2lzdGFudDoKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzZWxmLmFwaV9rZXkgPSBDb25maWcuT1BFTkFJX0FQSV9LRVkKICAgICAgICBvcGVuYWkuYXBpX2tleSA9IHNlbGYuYXBpX2tleQogICAgICAgIHNlbGYuY29udmVyc2F0aW9uX2hpc3RvcnkgPSBbXQoKICAgIGRlZiBjaGF0KHNlbGYsIHVzZXJfaW5wdXQpOgogICAgICAgIHRyeToKICAgICAgICAgICAgIyBBZGQgdXNlciBpbnB1dCB0byBjb252ZXJzYXRpb24gaGlzdG9yeQogICAgICAgICAgICBzZWxmLmNvbnZlcnNhdGlvbl9oaXN0b3J5LmFwcGVuZCh7InJvbGUiOiAidXNlciIsICJjb250ZW50IjogdXNlcl9pbnB1dH0pCiAgICAgICAgICAgIAogICAgICAgICAgICAjIEdldCByZXNwb25zZSBmcm9tIE9wZW5BSQogICAgICAgICAgICByZXNwb25zZSA9IG9wZW5haS5DaGF0Q29tcGxldGlvbi5jcmVhdGUoCiAgICAgICAgICAgICAgICBtb2RlbD1Db25maWcuTU9ERUxfTkFNRSwKICAgICAgICAgICAgICAgIG1lc3NhZ2VzPXNlbGYuY29udmVyc2F0aW9uX2hpc3RvcnksCiAgICAgICAgICAgICAgICBtYXhfdG9rZW5zPUNvbmZpZy5NQVhfVE9LRU5TLAogICAgICAgICAgICAgICAgdGVtcGVyYXR1cmU9Q29uZmlnLlRFTVBFUkFUVVJFCiAgICAgICAgICAgICkKCiAgICAgICAgICAgICMgRXh0cmFjdCBhbmQgc3RvcmUgYXNzaXN0YW50J3MgcmVzcG9uc2UKICAgICAgICAgICAgYXNzaXN0YW50X3Jlc3BvbnNlID0gcmVzcG9uc2UuY2hvaWNlc1swXS5tZXNzYWdlWydjb250ZW50J10KICAgICAgICAgICAgc2VsZi5jb252ZXJzYXRpb25faGlzdG9yeS5hcHBlbmQoeyJyb2xlIjogImFzc2lzdGFudCIsICJjb250ZW50IjogYXNzaXN0YW50X3Jlc3BvbnNlfSkKICAgICAgICAgICAgCiAgICAgICAgICAgIHJldHVybiBhc3Npc3RhbnRfcmVzcG9uc2UKCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICByZXR1cm4gZiJBbiBlcnJvciBvY2N1cnJlZDoge3N0cihlKX0iCgpkZWYgbWFpbigpOgogICAgYXNzaXN0YW50ID0gUGVyc29uYWxBSUFzc2lzdGFudCgpCiAgICBwcmludCgiUGVyc29uYWwgQUkgQXNzaXN0YW50IGluaXRpYWxpemVkLiBUeXBlICdxdWl0JyB0byBleGl0LiIpCiAgICAKICAgIHdoaWxlIFRydWU6CiAgICAgICAgdXNlcl9pbnB1dCA9IGlucHV0KCJZb3U6ICIpCiAgICAgICAgaWYgdXNlcl9pbnB1dC5sb3dlcigpID09ICdxdWl0JzoKICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgCiAgICAgICAgcmVzcG9uc2UgPSBhc3Npc3RhbnQuY2hhdCh1c2VyX2lucHV0KQogICAgICAgIHByaW50KGYiQXNzaXN0YW50OiB7cmVzcG9uc2V9IikKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCk",
+					"AQAAAAAAAAABAAAARwYAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAARwYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAABIBgAAIyBJbiBzcmMvbWFpbi5weQppbXBvcnQgc3lzCmltcG9ydCBvcwoKIyBBZGQgdGhlIHByb2plY3Qgcm9vdCBkaXJlY3RvcnkgdG8gUHl0aG9uIHBhdGgKc3lzLnBhdGguYXBwZW5kKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkpKQoKZnJvbSBjb25maWcuY29uZmlnIGltcG9ydCBDb25maWcKaW1wb3J0IG9wZW5haQoKY2xhc3MgUGVyc29uYWxBSUFzc2lzdGFudDoKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzZWxmLmFwaV9rZXkgPSBDb25maWcuT1BFTkFJX0FQSV9LRVkKICAgICAgICBvcGVuYWkuYXBpX2tleSA9IHNlbGYuYXBpX2tleQogICAgICAgIHNlbGYuY29udmVyc2F0aW9uX2hpc3RvcnkgPSBbXQoKICAgIGRlZiBjaGF0KHNlbGYsIHVzZXJfaW5wdXQpOgogICAgICAgIHRyeToKICAgICAgICAgICAgIyBBZGQgdXNlciBpbnB1dCB0byBjb252ZXJzYXRpb24gaGlzdG9yeQogICAgICAgICAgICBzZWxmLmNvbnZlcnNhdGlvbl9oaXN0b3J5LmFwcGVuZCh7InJvbGUiOiAidXNlciIsICJjb250ZW50IjogdXNlcl9pbnB1dH0pCiAgICAgICAgICAgIAogICAgICAgICAgICAjIEdldCByZXNwb25zZSBmcm9tIE9wZW5BSQogICAgICAgICAgICByZXNwb25zZSA9IG9wZW5haS5DaGF0Q29tcGxldGlvbi5jcmVhdGUoCiAgICAgICAgICAgICAgICBtb2RlbD1Db25maWcuTU9ERUxfTkFNRSwKICAgICAgICAgICAgICAgIG1lc3NhZ2VzPXNlbGYuY29udmVyc2F0aW9uX2hpc3RvcnksCiAgICAgICAgICAgICAgICBtYXhfdG9rZW5zPUNvbmZpZy5NQVhfVE9LRU5TLAogICAgICAgICAgICAgICAgdGVtcGVyYXR1cmU9Q29uZmlnLlRFTVBFUkFUVVJFCiAgICAgICAgICAgICkKCiAgICAgICAgICAgICMgRXh0cmFjdCBhbmQgc3RvcmUgYXNzaXN0YW50J3MgcmVzcG9uc2UKICAgICAgICAgICAgYXNzaXN0YW50X3Jlc3BvbnNlID0gcmVzcG9uc2UuY2hvaWNlc1swXS5tZXNzYWdlWydjb250ZW50J10KICAgICAgICAgICAgc2VsZi5jb252ZXJzYXRpb25faGlzdG9yeS5hcHBlbmQoeyJyb2xlIjogImFzc2lzdGFudCIsICJjb250ZW50IjogYXNzaXN0YW50X3Jlc3BvbnNlfSkKICAgICAgICAgICAgCiAgICAgICAgICAgIHJldHVybiBhc3Npc3RhbnRfcmVzcG9uc2UKCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICByZXR1cm4gZiJBbiBlcnJvciBvY2N1cnJlZDoge3N0cihlKX0iCgpkZWYgbWFpbigpOgogICAgYXNzaXN0YW50ID0gUGVyc29uYWxBSUFzc2lzdGFudCgpCiAgICBwcmludCgiUGVyc29uYWwgQUkgQXNzaXN0YW50IGluaXRpYWxpemVkLiBUeXBlICdxdWl0JyB0byBleGl0LiIpCiAgICAKICAgIHdoaWxlIFRydWU6CiAgICAgICAgdXNlcl9pbnB1dCA9IGlucHV0KCJZb3U6ICIpCiAgICAgICAgaWYgdXNlcl9pbnB1dC5sb3dlcigpID09ICdxdWl0JzoKICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgCiAgICAgICAgcmVzcG9uc2UgPSBhc3Npc3RhbnQuY2hhdCh1c2VyX2lucHV0KQogICAgICAgIHByaW50KGYiQXNzaXN0YW50OiB7cmVzcG9uc2V9IikKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK",
+					"AQAAAAAAAAABAAAAAAAAAAAAAABIBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAkQUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAACRBQAAaW1wb3J0IHN5cwppbXBvcnQgb3MKZnJvbSBvcGVuYWkgaW1wb3J0IE9wZW5BSQpmcm9tIGNvbmZpZy5jb25maWcgaW1wb3J0IENvbmZpZwoKY2xhc3MgUGVyc29uYWxBSUFzc2lzdGFudDoKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzZWxmLmNsaWVudCA9IE9wZW5BSShhcGlfa2V5PUNvbmZpZy5PUEVOQUlfQVBJX0tFWSkKICAgICAgICBzZWxmLmNvbnZlcnNhdGlvbl9oaXN0b3J5ID0gW10KCiAgICBkZWYgY2hhdChzZWxmLCB1c2VyX2lucHV0KToKICAgICAgICB0cnk6CiAgICAgICAgICAgICMgQWRkIHVzZXIgaW5wdXQgdG8gY29udmVyc2F0aW9uIGhpc3RvcnkKICAgICAgICAgICAgc2VsZi5jb252ZXJzYXRpb25faGlzdG9yeS5hcHBlbmQoeyJyb2xlIjogInVzZXIiLCAiY29udGVudCI6IHVzZXJfaW5wdXR9KQogICAgICAgICAgICAKICAgICAgICAgICAgIyBHZXQgcmVzcG9uc2UgZnJvbSBPcGVuQUkKICAgICAgICAgICAgcmVzcG9uc2UgPSBzZWxmLmNsaWVudC5jaGF0LmNvbXBsZXRpb25zLmNyZWF0ZSgKICAgICAgICAgICAgICAgIG1vZGVsPSJncHQtMy41LXR1cmJvIiwKICAgICAgICAgICAgICAgIG1lc3NhZ2VzPXNlbGYuY29udmVyc2F0aW9uX2hpc3RvcnksCiAgICAgICAgICAgICAgICBtYXhfdG9rZW5zPTE1MCwKICAgICAgICAgICAgICAgIHRlbXBlcmF0dXJlPTAuNwogICAgICAgICAgICApCgogICAgICAgICAgICAjIEV4dHJhY3QgYW5kIHN0b3JlIGFzc2lzdGFudCdzIHJlc3BvbnNlCiAgICAgICAgICAgIGFzc2lzdGFudF9yZXNwb25zZSA9IHJlc3BvbnNlLmNob2ljZXNbMF0ubWVzc2FnZS5jb250ZW50CiAgICAgICAgICAgIHNlbGYuY29udmVyc2F0aW9uX2hpc3RvcnkuYXBwZW5kKHsicm9sZSI6ICJhc3Npc3RhbnQiLCAiY29udGVudCI6IGFzc2lzdGFudF9yZXNwb25zZX0pCiAgICAgICAgICAgIAogICAgICAgICAgICByZXR1cm4gYXNzaXN0YW50X3Jlc3BvbnNlCgogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgcmV0dXJuIGYiQW4gZXJyb3Igb2NjdXJyZWQ6IHtzdHIoZSl9IgoKZGVmIG1haW4oKToKICAgIGFzc2lzdGFudCA9IFBlcnNvbmFsQUlBc3Npc3RhbnQoKQogICAgcHJpbnQoIlBlcnNvbmFsIEFJIEFzc2lzdGFudCBpbml0aWFsaXplZC4gVHlwZSAncXVpdCcgdG8gZXhpdC4iKQogICAgCiAgICB3aGlsZSBUcnVlOgogICAgICAgIHVzZXJfaW5wdXQgPSBpbnB1dCgiWW91OiAiKQogICAgICAgIGlmIHVzZXJfaW5wdXQubG93ZXIoKSA9PSAncXVpdCc6CiAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICAgIAogICAgICAgIHJlc3BvbnNlID0gYXNzaXN0YW50LmNoYXQodXNlcl9pbnB1dCkKICAgICAgICBwcmludChmIkFzc2lzdGFudDoge3Jlc3BvbnNlfSIpCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigp",
+					"AQAAAAAAAAABAAAAAAAAAAAAAACRBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAA3gUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "config/config.py",
+			"settings":
+			{
+				"buffer_size": 224,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "# config/config.py"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAADAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAAMAQAAIyBjb25maWcvY29uZmlnLnB5CmltcG9ydCBvcwpmcm9tIGRvdGVudiBpbXBvcnQgbG9hZF9kb3RlbnYKCiMgTG9hZCBlbnZpcm9ubWVudCB2YXJpYWJsZXMKbG9hZF9kb3RlbnYoKQoKIyBDb25maWd1cmF0aW9uIHNldHRpbmdzCmNsYXNzIENvbmZpZzoKICAgIE9QRU5BSV9BUElfS0VZID0gb3MuZ2V0ZW52KCdPUEVOQUlfQVBJX0tFWScpCiAgICBNT0RFTF9OQU1FID0gImdwdC0zLjUtdHVyYm8iCiAgICBNQVhfVE9LRU5TID0gMTUwCiAgICBURU1QRVJBVFVSRSA9IDAuNw",
+					"AQAAAAAAAAABAAAADAEAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": ".env",
+			"settings":
+			{
+				"buffer_size": 179,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAJwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					12,
+					"left_delete",
+					null,
+					"DAAAACYAAAAAAAAAJgAAAAAAAAABAAAAZSUAAAAAAAAAJQAAAAAAAAABAAAAciQAAAAAAAAAJAAAAAAAAAABAAAAZSMAAAAAAAAAIwAAAAAAAAABAAAAaCIAAAAAAAAAIgAAAAAAAAABAAAAXyEAAAAAAAAAIQAAAAAAAAABAAAAeSAAAAAAAAAAIAAAAAAAAAABAAAAZR8AAAAAAAAAHwAAAAAAAAABAAAAax4AAAAAAAAAHgAAAAAAAAABAAAAXx0AAAAAAAAAHQAAAAAAAAABAAAAaRwAAAAAAAAAHAAAAAAAAAABAAAAcBsAAAAAAAAAGwAAAAAAAAABAAAAYQ",
+					"AQAAAAAAAAABAAAAJwAAAAAAAAAnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					11,
+					"left_delete",
+					null,
+					"CwAAABoAAAAAAAAAGgAAAAAAAAABAAAAXxkAAAAAAAAAGQAAAAAAAAABAAAAaRgAAAAAAAAAGAAAAAAAAAABAAAAYRcAAAAAAAAAFwAAAAAAAAABAAAAbhYAAAAAAAAAFgAAAAAAAAABAAAAZRUAAAAAAAAAFQAAAAAAAAABAAAAcBQAAAAAAAAAFAAAAAAAAAABAAAAbxMAAAAAAAAAEwAAAAAAAAABAAAAXxIAAAAAAAAAEgAAAAAAAAABAAAAchEAAAAAAAAAEQAAAAAAAAABAAAAdRAAAAAAAAAAEAAAAAAAAAABAAAAbw",
+					"AQAAAAAAAAABAAAAGwAAAAAAAAAbAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"left_delete",
+					null,
+					"AQAAAA8AAAAAAAAADwAAAAAAAAABAAAAeQ",
+					"AQAAAAAAAAABAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"paste",
+					null,
+					"AQAAAA8AAAAAAAAAswAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Administrator/Desktop/personal_ai_assistant",
+		"/C/Users/Administrator/Desktop/personal_ai_assistant/config",
+		"/C/Users/Administrator/Desktop/personal_ai_assistant/src"
+	],
+	"file_history":
+	[
+		"/C/Users/Administrator/Desktop/personal_ai_assistant/config/config.py",
+		"/C/Users/Administrator/Desktop/HTML PROJECTS/build-a-recipe-page.txt"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1502,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1502,
+								1502
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "config/config.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 224,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								224,
+								224
+							]
+						],
+						"settings":
+						{
+							"auto_name": "# config/config.py",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": ".env",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								179,
+								179
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "personal_ai_assistant.sublime-workspace",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
