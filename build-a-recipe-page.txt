@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta charset="UTF-8"> 
+<title></title>
+</head>
+<body>
+<h1>Chocolate Chip Cookies</h1>
+<p>This is a delicious and easy-to-make recipe that you'll love!</p>
+<h2>Ingredients</h2>
+<ul>
+     <li>1 cup of flour</li>
+     <li>2 eggs</li>
+     <li>1/2 cup of sugar</li>
+     <li>1 teaspoon of vanilla extract</li>
+</ul>
+<h2>Instructions</h2>
+<ol>
+     <li>reheat the oven to 350°F (175°C).</li>
+     <li>mix flower and sugar in a bowl.</li>
+    <li>Add eggs and vanilla extract,mix well</li>
+    <li>Pour butter in the greased baking pan</li>
+    <li>Bake for 30 minutes or untill golden brown</li>
+</ol>
+<img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="A delicious dish">
+</body>
+</html>
